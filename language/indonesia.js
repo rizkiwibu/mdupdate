@@ -648,6 +648,7 @@ exports.welcome = () =>{
 ├ 𝖴𝗆𝗎𝗋 :
 ├ 𝖦𝖾𝗇𝖽𝖾𝗋 :
 ├ 𝖠𝗌𝗄𝗈𝗍 :
+├ join bang :https://chat.whatsapp.com/KWWRfDNK9xkCfeOmyvlk0H
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
@@ -667,7 +668,9 @@ exports.tos = (ownernomer) => {
 
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
-
+Dana:6283817161861
+Pulsaxl:6287881231873
+Atau hubungi owner 
 Berapapun donasi kalian akan sangat berarti 👍
 
 Thanks!
@@ -1212,6 +1215,7 @@ exports.tqto = () =>{
 ├ Nurutomo
 ├ Rashid
 ├ ZeeoneOfc
+├ rizkiwibu
 ├ Penyedia Module
 ╰❒ And All Support
 `
